@@ -10,7 +10,7 @@
 #include "GameFramework/PlayerController.h"
 
 //////////////////////////////////////////////////////////////////////////
-// AElementalistCharacter
+// AElementalistCharacter	
 
 AElementalistCharacter::AElementalistCharacter()
 {
